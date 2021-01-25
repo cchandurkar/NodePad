@@ -1,0 +1,30 @@
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+ <title/>
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="50" height="50" id="canvas_background" fill="none"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path d="m46,5.37443l-44,0l0,38a2,2 0 0 0 2,2l40,0a2,2 0 0 0 2,-2l0,-38z" fill="#44475a" id="svg_1"/>
+  <path d="m46.06256,5.93744l-44,0l0,36a2,2 0 0 0 2,2l40,0a2,2 0 0 0 2,-2l0,-36z" fill="#282a36" id="svg_2"/>
+  <path d="m4,2l40,0a2,2 0 0 1 2,2l0,2a0,0 0 0 1 0,0l-44,0a0,0 0 0 1 0,0l0,-2a2,2 0 0 1 2,-2z" fill="#d3d6db" id="svg_3"/>
+  <rect fill="#fff" height="2" rx="1" ry="1" width="8" x="6" y="10" id="svg_4"/>
+  <rect fill="#fff" height="2" rx="1" ry="1" width="4" x="6" y="30" id="svg_5"/>
+  <rect fill="#bd93f9" height="2" rx="1" ry="1" width="8" x="9.93744" y="14" id="svg_6"/>
+  <rect fill="#ffb86c" height="2" rx="1" ry="1" width="8" x="14" y="18" id="svg_7"/>
+  <rect fill="#71d385" height="2" rx="1" ry="1" width="12" x="24" y="18" id="svg_8"/>
+  <rect fill="#ffb86c" height="2" rx="1" ry="1" width="4" x="20" y="14" id="svg_9"/>
+  <rect fill="#71d385" height="2" rx="1" ry="1" width="9" x="10" y="26" id="svg_10"/>
+  <rect fill="#ffb86c" height="2" rx="1" ry="1" width="4" x="21" y="26" id="svg_11"/>
+  <rect fill="#ff79c6" height="2" rx="1" ry="1" width="4" x="26" y="14" id="svg_12"/>
+  <rect fill="#bd93f9" height="2" rx="1" ry="1" width="4" x="14" y="22" id="svg_13"/>
+  <rect fill="#bd93f9" height="2" rx="1" ry="1" width="8" x="20" y="22" id="svg_14"/>
+  <g id="svg_29" transform="matrix(62.41011451726445,0,0,62.41011451726445,0,0) ">
+   <title>background</title>
+  </g>
+  <g id="svg_31"/>
+  <g id="svg_42"/>
+ </g>
+</svg>
